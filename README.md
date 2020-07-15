@@ -1,13 +1,16 @@
 # ZStack3_CC2530_EPD2in9
-  EPD pins
-
+  P1.3 - join/unjoin
+  
+  P2.0 - Relay ON/OFF  
+  
+#  EPD pins
   control
   
-  P0.0 - LCD_MODE
+  P0.0 - DC
   
-  P1.1 - LCD_FLASH_RESET
+  P1.1 - RESET
   
-  P1.2 - LCD_CS
+  P1.2 - CS
 
   spi
   
