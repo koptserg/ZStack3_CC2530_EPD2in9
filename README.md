@@ -1,4 +1,4 @@
-# koptserg-ZStack3_CC2530_EPD2in9
+# ZStack3_CC2530_EPD2in9
   EPD pins
 
   control
