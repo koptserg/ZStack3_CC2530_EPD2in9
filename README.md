@@ -1,5 +1,5 @@
 # koptserg-ZStack3_CC2530_EPD2in9
-  LCD pins
+  EPD pins
 
   //control
   P0.0 - LCD_MODE
