@@ -20,4 +20,4 @@
   
   P1.7 - MISO
   
-![Prototype](https://github.com/koptserg/Fish-Sensor/blob/master/HAPY6908_1.jpg)
+![Prototype](https://github.com/koptserg/ZStack3_CC2530_EPD2in9/image/epd2in9.jpg)
