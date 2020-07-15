@@ -22,3 +22,5 @@
   
   #  Image  
 ![Prototype](https://github.com/koptserg/ZStack3_CC2530_EPD2in9/blob/master/image/epd2in9.jpg)
+
+https://youtu.be/DEj1yZ5klt8
