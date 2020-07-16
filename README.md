@@ -1,7 +1,9 @@
 # ZStack3_CC2530_EPD2in9
-  P1.3 - join/unjoin
+  P1.3 - Key join/unjoin
   
-  P2.0 - Relay ON/OFF  
+  P2.0 - Key ON/OFF
+  
+  P1.4 - Relay(Led) ON/OFF  
   
 #  EPD pins
   control
